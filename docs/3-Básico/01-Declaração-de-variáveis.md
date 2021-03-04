@@ -4,7 +4,7 @@ Antes de utilizar uma variável, é necessário, OBRIGATORIAMENTE, declara-la e 
 
 O nome de uma variável é referenciado como um identificador. Em C# existem regras específicas na criação de um identificador:
 
-- Um nome de variével PODE conter apenas letras, números ou underscore.
+- Um nome de variável PODE conter apenas letras, números ou underscore.
 
 - Um nome de variável PRECISA começar com uma letra ou com underscore.
 
